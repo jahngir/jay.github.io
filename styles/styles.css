@@ -2,6 +2,15 @@
     background-color: black;
 }
 #tom{
+    padding-top: 5px;
+    height: 950px;
+    width: 650px;
+}
+#bg{
+padding-top: 20px;    
+    display: block;
     height: 900px;
-    width: 200px;
+    width: 650px;
+    float: right;
+    z-index: -2;
 }
